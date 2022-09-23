@@ -114,9 +114,13 @@ celerybeat.pid
 # Environments
 .env
 .venv
+.meuprojeto
+meuprojeto
 env/
 venv/
 ENV/
+.env
+meuprojeto
 env.bak/
 venv.bak/
 
